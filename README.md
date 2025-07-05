@@ -1,6 +1,23 @@
-<a href="https://github.com/MzHmO?tab=repositories"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MzHmO&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=Account⠀stats"/></a><a href="https://github.com/MzHmO?tab=repositories"><a href="https://github.com/MzHmO?tab=repositories"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MzHmO&title_color=4382e5&exclude_repo=articles&icon_color=ed9657&text_color=757c84&bg_color=0000&custom_title=Used⠀languages&langs_count=8&layout=compact&hide_border=true"/></a>
+# Hello, I'm mzhmo! 👋
 
-U can find more my tools here:
-https://github.com/CICADA8-Research
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D6DFF&width=435&lines=Security+Research;Pentest;Student;Open+Source+Contribution)](https://git.io/typing-svg)
 
-**ALL TOOLS AND OUR RESEARCH ARE POSTED FOR EDUCATIONAL PURPOSES ONLY. WE DO NOT APPROVE THEIR USE WITHOUT AUTHORIZATION TO CONDUCT PENTESTS**
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mzhmo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="mzhmo's Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzhmo&theme=tokyonight&hide_border=true" alt="mzhmo's Streak" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzhmo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="mzhmo's Top Languages" width="48%"/>
+</div>
+
+## 🔧 My Tools & Research
+
+Find more of my tools and research here:  
+[CICADA8-Research Organization](https://github.com/CICADA8-Research)
+
+## ⚠️ Important Notice
+
+**ALL TOOLS AND OUR RESEARCH ARE POSTED FOR EDUCATIONAL PURPOSES ONLY. WE DO NOT APPROVE THEIR USE WITHOUT AUTHORIZATION TO CONDUCT PENTESTS.**
