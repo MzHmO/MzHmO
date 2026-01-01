@@ -5,12 +5,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mzhmo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="mzhmo's Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzhmo&theme=tokyonight&hide_border=true" alt="mzhmo's Streak" width="48%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mzhmo&show_icons=true&theme=tokyonight" alt="mzhmo's Stats" width="48%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mzhmo&theme=tokyonight" alt="mzhmo's Streak" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzhmo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="mzhmo's Top Languages" width="48%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mzhmo&layout=compact&theme=tokyonight" alt="mzhmo's Top Languages" width="48%"/>
 </div>
 
 ## 🔧 My Tools & Research
